@@ -1,11 +1,11 @@
-# Drone_Control_Using_Poses
+# Drone_Control_Using_Poses with Python
 
 **YouTube Link:** https://youtu.be/YkIxwt4Gaac?si=0EzKFxkkCyIZwvwE
 
-Este proyecto constituye el **Trabajo de Fin de Grado (TFG)** en Ingeniería en Sistemas de Telecomunicación. El objetivo principal fue desarrollar un sistema de control para un dron mediante el **reconocimiento de poses** captadas a través de una cámara, ya sea mediante gestos de las manos, posiciones corporales o movimientos de las extremidades.
+This project constitutes the **Final Degree Project (TFG)** in Telecommunication Systems Engineering. The main objective was to develop a control system for a drone using **pose recognition** captured through a camera, whether through hand gestures, body positions, or limb movements.
 
-El proyecto se fundamentó en la detección de puntos clave del cuerpo humano. Utilizando algoritmos avanzados y scripts de **Big Data**, se logró identificar con precisión las manos y el cuerpo de cualquier persona en diversas situaciones. Esto permitió programar un sistema que compara la posición de los puntos clave y determina la pose específica, lo que desencadena diferentes movimientos del dron en función de los gestos detectados.
+The project was based on detecting key points of the human body. By using advanced algorithms and **Big Data** scripts, it was possible to accurately identify the hands and body of any person in various situations. This enabled the programming of a system that compares the position of the key points and determines the specific pose, triggering different drone movements based on the detected gestures.
 
-Además, el proyecto incluyó elementos interactivos, como un sistema de puntuaciones visibles en pantalla que se incrementaba en **tiempo real** según las interacciones con el dron. Para enriquecer la experiencia del usuario, también se incorporaron efectos sonoros y música, aportando un componente lúdico e inmersivo al manejo del dron.
+Additionally, the project included interactive elements, such as an on-screen scoring system that updated in **real-time** based on interactions with the drone. To enrich the user experience, sound effects and music were also incorporated, adding a playful and immersive component to controlling the drone.
 
-Este trabajo no solo representó un reto técnico al combinar visión por computadora, programación en Python y telecomunicaciones, sino que también exploró las posibilidades de la interacción humano-máquina, aplicando tecnologías innovadoras en un entorno dinámico y creativo.
+This work not only represented a technical challenge by combining computer vision, Python programming, and telecommunications, but it also explored the possibilities of human-machine interaction, applying innovative technologies in a dynamic and creative environment.
