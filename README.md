@@ -1,6 +1,6 @@
 # Drone_Control_Using_Poses with Python
 
-**YouTube Link:** https://youtu.be/YkIxwt4Gaac?si=0EzKFxkkCyIZwvwE
+**YouTube Link:** https://youtu.be/Uu_Br9ynfZw
 
 This project constitutes the **Final Degree Project (TFG)** in Telecommunication Systems Engineering. The main objective was to develop a control system for a drone using **pose recognition** captured through a camera, whether through hand gestures, body positions, or limb movements.
 
